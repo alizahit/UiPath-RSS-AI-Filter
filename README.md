@@ -1,5 +1,3 @@
-## Badges
-
 <div align="center">
 
 ![UiPath](https://img.shields.io/badge/UiPath-Studio_Web-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
